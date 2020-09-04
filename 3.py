@@ -1,4 +1,0 @@
-qqqqq
-ppppp
-bbbbb
-ddddd
